@@ -18,3 +18,5 @@ Related repositories (N3VEM/OpenShack-XXXX) will be created as needed for specif
 N3VEM/OpenShack : This Repository
 
 N3VEM/OpenShack-AutomationWeb : Repository for html/php code for UI, python scripts for sensor data to be displayed in that interface, etc.
+
+N3VEM/OpenShack-Hardware : Repository for custome built hardware related to the shack
