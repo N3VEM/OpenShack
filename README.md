@@ -11,3 +11,6 @@ Primary Objectives:
   - Encourage Collaboration on custom software used to control shack functions
   - Encourage Collaboration on hardware to use in-shack
   - Encourage Collaboaration on customer hardward used to control shack functions
+
+This repository (N3VEM/OpenShack) will serve as the repository for non-software design and documentation.
+Related repositories (N3VEM/OpenShack-XXXX) will be created as needed for specific software packages, either individually, or in groups, as required, to make it easier to sync different repositories to different locations and different peices of equipment as needed.
